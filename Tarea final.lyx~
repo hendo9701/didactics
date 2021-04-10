@@ -1,0 +1,1110 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "hidelinks"
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+\noun on
+Trabajo Final de Didáctica de la Educación Superior
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename photo_2020-11-05_15-30-32.jpg
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+Autor: 
+\series default
+Hayder L.
+ Endo Pérez
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\begin_inset CommandInset href
+LatexCommand href
+name "hendo@uclv.cu"
+target "hendo@uclv.cu"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\noun on
+Tema 23: Dudas y preocupaciones desde el punto de vista didáctico sobre
+ la educación a distancia en asignaturas de la especialidad Licenciatura
+ en Ciencia de la computación
+\noun default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+Santa Clara, 2021
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\lang spanish
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{Introducción}
+\end_layout
+
+\end_inset
+
+
+\lang spanish
+Introducción
+\end_layout
+
+\begin_layout Standard
+\noindent
+La evolución de la tecnología y los avances en la ciencia del aprendizaje
+ han impulsado el desarrollo de la educación a distancia a un marco de calidad
+ de enseñanza como nunca antes.
+ Pero esta evolución no se debe solamente a dichos avances, sino también
+ a las dificultades que la presencia de la 
+\series bold
+COVID-19
+\series default
+ ha traído consigo.
+\end_layout
+
+\begin_layout Standard
+\noindent
+También conocida como educación online, en línea o remota, se trata de una
+ innovadora forma de aprender y enseñar que lleva la dinámica de una clase
+ tradicional y presencial al mundo digital.
+ De esta manera, desde cualquier lugar del mundo, los alumnos y docentes
+ pueden conectarse en un entorno virtual en sus computadoras a través de
+ algún tipo de conexión a Internet, haciendo uso intensivo de las facilidades
+ que proporcionan las nuevas tecnologías.
+ Pero, al igual que la modalidad tradicional, la enseñanza a distancia tiene
+ sus ventajas y desventajas, no solo por el hecho de superar la barrera
+ de 
+\emph on
+“lo conocido”
+\emph default
+, en el sentido de a lo que se está acostumbrado a la hora de impartir y
+ recibir clases sino también por los nuevos métodos y alternativas que se
+ emplean para lograr lo que antes requería un salón de clases.
+\end_layout
+
+\begin_layout Standard
+\noindent
+La educación en línea tiene sus propios procesos didácticos, desde la forma
+ de abordar las clases, el uso de recursos gráficos y las dinámicas de participa
+ción en chats y foros hasta las formas de evaluar el desempeño tanto de
+ los alumnos como del propio maestro.
+ Las particularidades de estos procesos son los elementos que permiten que
+ existan disímiles interrogantes tales como: 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+¿Cómo se ve afectado lo que estudio con la educación a distancia? 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+¿Son más efectivos los métodos actuales a la hora de enseñar las disciplinas
+ de lo que estudio? 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+¿Mi intelecto tecnológico tiene algún efecto a la hora de realizar las tareas
+ que me sean asignadas a distancia?
+\end_layout
+
+\begin_layout Standard
+El presente trabajo pretende abordar algunas de estas interrogantes, desde
+ el punto de vista didáctico sobre la educación a distancia, enfocándose
+ principalmente en las disciplinas de la carrera 
+\emph on
+Licenciatura en Ciencia de la Computación
+\emph default
+.
+ Para ello se trazaron los siguientes objetivos:
+\end_layout
+
+\begin_layout Itemize
+Identificar la situación actual de cada asignatura de la especialidad, agrupada
+ por disciplina (grupo), en la educación a distancia desde el punto de vista
+ didáctico
+\end_layout
+
+\begin_layout Itemize
+Analizar las diferencias entre la forma de enseñar las disciplinas de la
+ carrera mencionada en la modalidad tradicional y en la modalidad a distancia
+\end_layout
+
+\begin_layout Standard
+Como puede verse, se ha preferido hacer el análisis a través de disciplinas
+ (grupos) y no de asignaturas; esto se debe a que muchas asignaturas tienen
+ métodos de enseñanza y aprendizaje muy similares, por tanto, sería un poco
+ redundante hacerlo de manera individual.
+ Además, al hacerlo de esta manera se gana en perspectiva, pues permite
+ que el estudio se enfoque en el efecto que la educación a distancia tiene,
+ tomando como objeto de estudio la carrera mencionada y no en particularidades
+ de cada asignatura que no tienen que ver con la manera en que se imparte.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{Desarrollo}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Desarrollo
+\end_layout
+
+\begin_layout Section
+Disciplinas de la ciencia de la computación 
+\end_layout
+
+\begin_layout Standard
+Las ciencias de la computación son, en resumidas cuentas, el estudio de
+ la información («datos»), y como manipularla («algoritmos») para resolver
+ problemas.
+ Mayormente en la teoría, pero a veces también en la práctica.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "noauthor_what_2017"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Este ámbito del conocimiento no abarca el estudio de las computadoras, ni
+ tampoco necesita estrictamente su uso; pues los datos y los algoritmos
+ se pueden procesar con papel y lápiz.
+ Las ciencias de la computación son muy parecidas a las matemáticas.
+\end_layout
+
+\begin_layout Standard
+A menudo, las ciencias de la computación son confundidas con tres campos,
+ que están relacionados, pero no son exactamente lo mismo:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+La ingeniería informática:
+\series default
+ Es la rama de la ingeniería que aplica los fundamentos de la Ciencia de
+ la Computación, la Ingeniería en Computadores, la Ingeniería de Sistemas
+ de Información, la Ingeniería de Software y la Ingeniería de Redes Informáticas
+, para el desarrollo de soluciones integrales de cómputo y comunicaciones,
+ capaces de procesar información de manera automática 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "noauthor_informatics_2021"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+La ingeniería de software:
+\series default
+ Es una de las ramas de las ciencias de la computación que estudia la creación
+ de software confiable y de calidad, basándose en métodos y técnicas de
+ ingeniería 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "noauthor_software_2021"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+La tecnología de la información:
+\series default
+ (TI) es la aplicación de ordenadores y equipos de telecomunicación para
+ almacenar, recuperar, transmitir y manipular datos, con frecuencia utilizado
+ en el contexto de los negocios u otras empresas.
+ Frecuentemente, los términos TI y TIC suelen usarse indistintamente: mientras
+ que TI se refiere a tecnologías de la información, TIC implica, además,
+ las destinadas a la comunicación 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "noauthor_information_2021"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A pesar de que las universidades del mundo no se ponen de acuerdo a la hora
+ de definir exactamente cómo debe formarse un 
+\emph on
+Licenciado en Ciencia de la Computación
+\emph default
+ si se puede establecer un marco central para las disciplinas (grupos) que
+ debe dominar un egresado de esta carrera.
+ Entre ellas podemos destacar:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Matemáticas Básicas:
+\series default
+ Este grupo abarca asignaturas como 
+\emph on
+el Álgebra Lineal
+\emph default
+, 
+\emph on
+la Geometría Analítica
+\emph default
+, 
+\emph on
+el Análisis Matemático
+\emph default
+, 
+\emph on
+las Ecuaciones Diferenciales
+\emph default
+, 
+\emph on
+las Probabilidades
+\emph default
+ y 
+\emph on
+la Estadística
+\emph default
+.
+ Se dedica tiempo de la carrera a estas asignaturas porque contribuyen a
+ formar la base para el estudio de otras más avanzadas, además de fortalecer
+ el pensamiento lógico y la resolución de problemas desde distintos puntos
+ de vista 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Matemáticas Computacionales:
+\series default
+ Aquí se pueden encontrar asignaturas como 
+\emph on
+la Lógica
+\emph default
+, 
+\emph on
+las Matemáticas Discretas
+\emph default
+ y 
+\emph on
+el Diseño y Análisis de Algoritmos
+\emph default
+.
+ Su propósito es enseñar a pensar como las computadoras, y una vez hecho
+ esto, comprender si un problema determinado puede ser resuelto por una
+ computadora o no (resolver un problema en Ciencia de la Computación consiste
+ en encontrar un algoritmo que solucione dicho problema en un tiempo considerabl
+e) 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Programación:
+\series default
+ En este grupo intervienen 
+\emph on
+la Programación
+\emph default
+ como asignatura,
+\emph on
+ las Estructuras de Datos
+\emph default
+, el estudio de 
+\emph on
+los Lenguajes de Programación
+\emph default
+, 
+\emph on
+la Ingeniería del Software
+\emph default
+, 
+\emph on
+el Diseño y Construcción de Compiladores
+\emph default
+ y 
+\emph on
+los Sistemas Operativos
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Inteligencia artificial:
+\series default
+ En este grupo se trata el desarrollo de máquinas que puedan mostrar comportamie
+ntos similares a las funciones cognitivas como: pensar, hablar, razonar
+ y resolver problemas complejos.
+ Algunas de las asignaturas que se pueden mencionar son: 
+\emph on
+la Inteligencia Artificial
+\emph default
+ propiamente dicha y 
+\emph on
+la Programación Declarativa
+\emph default
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Bases de Datos:
+\series default
+ Las asignaturas de este grupo enseñan al profesional modelos de cómo almacenar
+ los datos eficientemente para su posterior recuperación y análisis.
+ Algunas asignaturas que se pueden mencionar son: 
+\emph on
+Base de Datos
+\emph default
+ 
+\emph on
+Relacionales, Bases de Datos No Relacionales 
+\emph default
+y 
+\emph on
+Sistemas de Información.
+ 
+\end_layout
+
+\begin_layout Standard
+Estos grupos son los fundamentales, en lo que a la formación mínima se refiere.
+ En nuestro país se incorporan otras asignaturas como 
+\emph on
+la Filosofía
+\emph default
+, 
+\emph on
+la Historia de Cuba
+\emph default
+, 
+\emph on
+la Economía Política
+\emph default
+, tanto del Capitalismo como del Socialismo, 
+\emph on
+la Defensa Nacional
+\emph default
+ y 
+\emph on
+la Seguridad Nacional
+\emph default
+, 
+\emph on
+los Problemas Sociales de la Ciencia y la Tecnología
+\emph default
+ entre otras que no constituyen parte del programa universal pero sí contribuyen
+ a la formación de un profesional íntegro y con profundos valores sociales.
+ En lo posterior, se referirá a este grupo de asignaturas como 
+\emph on
+Formativas
+\emph default
+.
+\end_layout
+
+\begin_layout Section
+Situación de las asignaturas de la especialidad por grupos en la educación
+ a distancia 
+\end_layout
+
+\begin_layout Standard
+El creciente auge de la educación a distancia ha afectado de una manera
+ u otra al proceso de cómo se enseña y cómo se aprende cada asignatura de
+ la especialidad de manera diferente.
+ Se puede decir que entre los principales factores que influyen en cómo
+ se vieron afectadas las asignaturas están la asequibilidad de los materiales
+ y la sistematización de la enseñanza de las mismas.
+ En las siguientes subsecciones se identificará la situación de cada grupo
+ y se analizarán las diferencias entre cómo se llevaban a la práctica la
+ enseñanza y el aprendizaje de cada grupo de asignaturas en la modalidad
+ tradicional y cómo ocurre en la modalidad a distancia.
+\end_layout
+
+\begin_layout Subsection
+Matemáticas Básicas
+\end_layout
+
+\begin_layout Standard
+El grupo 
+\emph on
+Matemáticas Básicas
+\emph default
+ a mi parecer es sobre el cual más preocupación se debe tener.
+ Las lagunas que se produzcan en las bases de cualquier profesión constituyen
+ obstáculos a lo largo de la enseñanza de cualquier especialidad.
+ Las matemáticas del nivel superior que se enseñan en este grupo tienen
+ la particularidad de necesitar un nivel de práctica muy elevado; esto se
+ debe a los cambios en la forma de pensar que requieren por parte de los
+ estudiantes.
+ Si aprenderlas con la presencia de un profesor resulta, en algunos casos,
+ un poco complicado, se podrá imaginar cómo resulta hacerlo de manera individual.
+ El profesor a distancia sufre de muchas limitantes para impartir asignaturas
+ de esta área, pues carece de instrumentos muy necesarios como lo son la
+ dinámica del debate de aclaración de dudas grupal y la interacción intensiva
+ entre el estudiante y el profesor mientras se enseña algún tema de la asignatur
+a.
+ Esto, si bien se amortiza con los chats grupales, no llega a ser suficiente;
+ primero porque las condiciones de conectividad no permiten el llevar a
+ cabo videoconferencias verdaderamente virtuales y segundo porque a veces
+ la concurrencia de varias personas en un chat hace difícil asimilar lo
+ información.
+ Otro problema evidente es que, la mayoría de la bibliografía de estas asignatur
+as se encuentra en formato 
+\emph on
+“duro”
+\emph default
+, y aún no se ha digitalizado: impidiendo que el estudiante pueda profundizar
+ en un tema determinado que no se explica con suficiente plenitud en las
+ conferencias digitales.
+ Estas problemáticas evidencian claramente que la enseñanza y el aprendizaje
+ de las asignaturas de este grupo sea superior en la modalidad presencial
+ con respecto a la modalidad a distancia.
+ Para ejemplificar esta situación imagine a un estudiante de primer año
+ cursando la asignatura de 
+\series bold
+Análisis Matemático
+\series default
+ y el profesor le asigna un ejercicio evaluativo de integrales (se asume
+ que no puede preguntarle al profesor la respuesta de algún inciso pues,
+ es evaluativo), ¿cómo puede el estudiante comprobar el resultado de su
+ ejercicio sin utilizar un software que permita resolver integrales como
+ el 
+\series bold
+Mathematica
+\series default
+? Asumiendo que lo tenga, está el hecho de que su ordenador debe tener la
+ suficiente potencia como para ejecutarlo y si no lo tiene, ¿cómo lo puede
+ obtener si su instalación pesa como promedio unos 10 GB? 
+\end_layout
+
+\begin_layout Subsection
+Matemáticas Computacionales 
+\end_layout
+
+\begin_layout Standard
+El grupo 
+\emph on
+Matemática Computacional
+\emph default
+ se encuentra en la misma situación que el grupo 
+\emph on
+Matemática Básica
+\emph default
+ por la similitud que presentan las asignaturas que se imparten en ellos.
+ De hecho, para sus asignaturas se requiere, en muchos casos, que el estudiante
+ trabaje en un nivel de abstracción superior.
+ Cabe destacar que, a diferencia del grupo anterior, la bibliografía para
+ su estudio se encuentra mayormente en digital lo que permite una mayor
+ sistematización y profundización en el estudio.
+ Por otra parte se puede ver también que a diferencia de las Matemáticas
+ Básicas, las Matemáticas Computacionales requieren poco esfuerzo para el
+ estudiante en lo que a la comprobación de los ejercicios se refiere, ya
+ que una vez conocido algún lenguaje de programación, él mismo puede construir
+ sus propias herramientas de comprobación; de hecho, esto constituye una
+ ventaja a mi parecer con respecto a la educación en modalidad presencial,
+ donde el estudiante solo programaba cuando se le asignaba alguna tarea
+ extraclase.
+ Esto último manifiesta el carácter científico del proceso, ya que mediante
+ la adaptación a las nuevas circunstancias el estudiante se vale del método
+ y hace suyo nuevo conocimiento mediante el descubrimiento.
+\end_layout
+
+\begin_layout Subsection
+Programación 
+\end_layout
+
+\begin_layout Standard
+Este grupo está entre los más beneficiados por la educación a distancia.
+ Las asignaturas que en él se encuentran tienen la peculiaridad de que se
+ pueden aprender de forma autodidacta.
+ Tanto es así que muchos alumnos al ingresar en el primer año de la carrera
+ ya saben cómo programar e, incluso, en varios lenguajes de programación.
+ Esto se debe a que, en su mayoría no requieren de conocimientos previos,
+ tan solo es necesario pensar lógicamente y aprender la sintaxis del lenguaje
+ en que se quiere programar.
+ Aprender a programar es como aprender un idioma nuevo.
+ De hecho, muchas de las ideas más elaboradas en las ciencias de la computación
+ nacen de ideas muy simples que, en conjunto, permiten resolver problemas
+ complejos.
+ En la modalidad a distancia se puede ver claramente cómo el alumno que
+ cursa alguna de estas asignaturas desarrolla una gran autonomía a diferencia
+ de como ocurre esto en la modalidad tradicional, donde asignaturas de este
+ grupo reciben un enfoque mucho más teórico; de hecho, es bien conocido
+ de que el contenido que se imparte en asignaturas como 
+\series bold
+Programación
+\series default
+ y 
+\series bold
+Estructuras de Datos y Algoritmos
+\series default
+, no requieren de un ordenador e incluso, se exige en las evaluaciones programar
+ 
+\emph on
+“a papel y lápiz”
+\emph default
+.
+ Este último hecho, es una de las preocupaciones más inquietantes que afecta
+ no solo a los novatos que comienzan a cursar la carrera, sino también a
+ los ya un poco más veteranos: lo que a nivel teórico parece acertado, puede
+ resultar incorrecto o imposible de implementar en un lenguaje de programación.
+ No es suficiente con tener bien claro lo que se quiere hacer para orquestar
+ un algoritmo, se necesitan muchos años de práctica para que este quede
+ legible y pueda ser llevado eficientemente al lenguaje que entiende un
+ ordenador.
+ Por tanto, si desde un inicio se enseña 
+\emph on
+“a papel y lápiz”
+\emph default
+, ¿cómo pueden los estudiantes entonces ganar en práctica y experiencia?
+ La modalidad a distancia ha demostrado la veracidad de esta idea, ahora
+ no existe manera de evaluar 
+\emph on
+“a papel y lápiz”
+\emph default
+, simplemente se envía mediante alguna vía de comunicación el programa que
+ se pide, ya con una implementación concreta.
+ Tanto es así que, en muchas ocasiones luego de salir de un examen de alguna
+ de estas asignaturas y obteniendo buenos resultados, el estudiante intenta
+ reescribir lo que tenía literalmente en un ordenador y muchas veces no
+ se puede ejecutar, esto se debe a que cuando se evalúa a papel, el profesor
+ se ve obligado a no ser tan exigente con las reglas sintácticas de la implement
+ación (sería un poco abusivo degradar una nota porque en alguna de las líneas
+ de código falte un punto y coma) creando falsas expectativas en él; pues
+ el compilador o el intérprete encargado de traducir a código de máquina
+ las instrucciones escritas por el estudiante, no es tan benévolo como el
+ profesor.
+ 
+\end_layout
+
+\begin_layout Subsection
+Inteligencia Artificial
+\end_layout
+
+\begin_layout Standard
+Si bien las asignaturas del grupo 
+\emph on
+Programación
+\emph default
+ se vieron beneficiadas por la modalidad a distancia, las asignaturas de
+ la disciplina 
+\emph on
+Inteligencia Artificial
+\emph default
+ no se quedan detrás, aunque se debe decir que en menor medida.
+ Esto se debe a que requieren el mismo nivel de abstracción que las del
+ grupo 
+\emph on
+Matemáticas Computacionales
+\emph default
+.
+ Supongo que el mayor beneficio se encuentre en el aprendizaje colaborativo:
+ donde los estudiantes aprenden tanto de sus profesores como de sus compañeros.
+ ¿Qué mejor manera de enseñar a un ordenador a pensar como un ser humano
+ que debatiendo con seres humanos? Es precisamente este estilo de pensamiento
+ de colmena lo que hace exitosos a muchos de los algoritmos que se enseñan
+ en asignaturas de este grupo donde, mediante disímiles mecanismos de retroalime
+ntación el grupo que participa para resolver el problema se nutre de las
+ experiencias de sus compañeros (imaginarse una colmena de abejas buscando
+ polen o una colonia de hormigas buscando azúcar).
+ Es bien conocido que en la educación a distancia el debate grupal entre
+ estudiantes se hace más fuerte que en la modalidad tradicional, pues mientras
+ el rol de 
+\emph on
+educador
+\emph default
+ en la modalidad tradicional está más centrado en el profesor, en la educación
+ a distancia este rol queda un poco descentralizado, esto se debe a que
+ cuando se estudia desde el hogar, uno adapta sus horarios a conveniencia
+ y no siempre el profesor está en el momento que se espera, y es ahí cuando
+ estudiantes que tienen horarios similares se educan unos a otros.
+ 
+\end_layout
+
+\begin_layout Subsection
+Bases de datos 
+\end_layout
+
+\begin_layout Standard
+Las asignaturas de esta disciplina en la modalidad a distancia reciben cierto
+ impacto negativo, y esto se debe a la carga de software y configuraciones
+ de los mismos que requieren para poder cursarse; software que muchas veces,
+ debido a las pésimas condiciones de conectividad existentes en el país
+ no se puede obtener.
+ Por otra parte, cabe destacar que, aun teniendo el software instalado las
+ configuraciones para ponerlo en funcionamiento requieren de cierta práctica,
+ de la cual los estudiantes suelen carecer en etapas tempranas de la carrera,
+ lo cual hace imprescindible la ayuda del profesor.
+ Pero, uno pudiese pensar que el profesor podría conformar una guía y distribuir
+la entre todos los estudiantes y con ello solucionar la problemática de
+ la configuración; resulta que cada uno de estos softwares tienden a variar
+ su forma de configuración atendiendo a la versión y, en algunos casos del
+ sistema operativo, por tanto, esta variante no es solución al problema.
+ Por todo lo antes planteado, se evidencia claramente cómo esta asignatura
+ se vio afectada negativamente con la modalidad a distancia.
+ A pesar de todo ello, hay que destacar que la atención a las diferencias
+ individuales se ve fortalecida, precisamente por el hecho mencionado anteriorme
+nte, ya que el profesor no tiene otra alternativa que prestar consulta a
+ cada estudiante, en dependencia del servicio que tenga instalado en su
+ ordenador.
+\end_layout
+
+\begin_layout Subsection
+Asignaturas Formativas 
+\end_layout
+
+\begin_layout Standard
+Las asignaturas formativas bajo mi consideración son las más beneficiadas
+ por la educación a distancia.
+ Estas asignaturas desde la modalidad presencial siempre se destacaron por
+ llevarse a cabo mediante debates, ya sea a través de seminarios o discusiones
+ en el aula.
+ Por tanto, la migración de este debate en las aulas de la universidad a
+ las aulas virtuales fue muy sencilla.
+ De hecho, la gran ventaja de hacer debates en línea, es que los mismos
+ persisten en el tiempo y pueden ser material de consulta posteriormente,
+ mientras que los debates presenciales son tan efímeros como el tiempo de
+ duración de los mismos.
+ Estos debates virtuales facilitan también la compartición de información,
+ por ejemplo; imagine que en un debate presencial se desea mostrar algún
+ tipo de multimedia, evidentemente si no se lleva un ordenador o al menos
+ se trae impreso (en el caso de una foto) o se utiliza un proyector, las
+ personas de la audiencia no pueden verlo correctamente; mientras que, si
+ el debate es virtual, todos los participantes pueden acceder a dicho contenido
+ e incluso aportar al mismo en tiempo real.
+ Es por ello que las asignaturas de esta disciplina no presentan preocupaciones
+ mayores en la modalidad a distancia.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{Conclusiones}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Conclusiones
+\end_layout
+
+\begin_layout Standard
+La culminación del presente trabajo permitió identificar la situación actual
+ de cada asignatura, vista a través de grupos afines, en la educación a
+ distancia y desde el punto de vista didáctico.
+ De igual manera se llevó a cabo un análisis de las diferencias entre la
+ forma de enseñar estos grupos de asignaturas de la carrera Licenciatura
+ en Ciencia de la Computación en la modalidad tradicional y en la modalidad
+ a distancia.
+ Se pudo ver cómo algunos grupos de asignaturas, en dependencia de sus necesidad
+es, se vieron beneficiados o bien por tener naturaleza de debate en la forma
+ de evaluar los contenidos o por la carga de trabajo individual que requieren;
+ mientras otros, se vieron perjudicados ante la escasez de bibliografía
+ digital o por la abstracción necesaria para asimilar sus contenidos.
+ Pero lo que sí puede decirse es que, una modalidad no demostró ser ni superior
+ ni inferior a la otra, simplemente para algunos grupos funciona mejor una
+ que otra, y todo depende de las necesidades pedagógicas de las asignaturas
+ de los mismos.
+ También puede señalarse de que el intelecto tecnológico, tanto del estudiante
+ como del profesor influye en la forma en que se resuelven y asignan, respectiva
+mente, las tareas; un estudiante o profesor con mayor dominio de la plataforma
+ tecnológica en la que se trabaja, evidentemente va a poder enriquecer sus
+ contenidos, a la vez que ahorra en tiempo de realización o confección de
+ las mismos, mientras que otro que no lo tenga, contribuirá con contenidos
+ simples y desperdiciará tiempo aprendiendo la plataforma, el que puede
+ emplear para realizar o confeccionar las tareas.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "Bibliografías"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
